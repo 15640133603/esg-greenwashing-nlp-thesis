@@ -1,0 +1,9 @@
+﻿测度,对照变量,r,p,判定
+Talk,Size,-0.036,0.084,低相关 ✓
+Talk,lev,-0.046,0.026,低相关 ✓
+Talk,indep_ratio,-0.016,0.44,低相关 ✓
+Talk,board_size,0.008,0.68,低相关 ✓
+GW,Size,0.032,0.13,低相关 ✓
+GW,lev,0.049,0.018,低相关 ✓
+GW,indep_ratio,0.016,0.43,低相关 ✓
+GW,board_size,0.022,0.3,低相关 ✓

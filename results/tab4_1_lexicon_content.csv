@@ -1,0 +1,7 @@
+﻿维度,词数,理论依据,构建方式
+substantive,59,GRI 标准/ISO14001 环境管理术语,披露语料词频筛选+人工确认
+promotional,48,Lyon & Montgomery (2015) 漂绿定义,漂绿文献词表+中文披露语料适配
+risk,30,Loughran & McDonald (2011) 风险词典,环境子集翻译回译+扩展
+hedge,14,Larcker & Zakolyukina (2012) 模糊语言,中文财务文本语境适配
+time_short,14,胡楠等 (2021) 短期视域词典,直接引用并微调
+time_long,12,Brochet et al. (2015) 长期导向,中文语境扩展
