@@ -8,6 +8,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![论文](https://img.shields.io/badge/论文-Word%20%2B%20PDF-orange)]()
 
+🔗 **GitHub 仓库（已发布）**：https://github.com/15640133603/esg-greenwashing-nlp-thesis
+
 ## 研究简介
 
 以 2019—2023 年沪深 A 股 468 家上市公司为样本，构建了一套**可复现的 ESG 话语中文文本测度体系**，用于识别企业"说得多、做得少"的漂绿（greenwashing）行为。
